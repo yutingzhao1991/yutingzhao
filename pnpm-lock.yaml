@@ -35,6 +35,9 @@ dependencies:
   hexo-theme-landscape:
     specifier: ^1.0.0
     version: 1.0.0
+  hexo-theme-stellar:
+    specifier: ^1.29.1
+    version: 1.29.1
 
 packages:
 
@@ -680,6 +683,15 @@ packages:
 
   /hexo-theme-landscape@1.0.0:
     resolution: {integrity: sha512-bWQJWMqQI78wWiJPQZq5pJBH20TM442ShCaHGRetuEgMraxH0OKxB3NTupJzNEkzEk8DV2yrdizkXdKN6i501A==}
+    dev: false
+
+  /hexo-theme-stellar@1.29.1:
+    resolution: {integrity: sha512-6OetnuydRZ0ZYrpGeFj5D1kABLgRign6X7Jaz1xNwqso8S51X1cSZgSmdivaYPDYIDHvZD6czmErj1TS+gAlKg==}
+    dependencies:
+      hexo-renderer-ejs: 2.0.0
+      hexo-renderer-stylus: 3.0.1
+    transitivePeerDependencies:
+      - supports-color
     dev: false
 
   /hexo-util@3.3.0:
