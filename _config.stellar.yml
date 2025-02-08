@@ -1,0 +1,11 @@
+footer:
+  social:
+    github:
+      icon: '<img src="/images/github.png"/>'
+      url: https://github.com/yutingzhao1991
+    twitter:
+      icon: '<img src="/images/twitter.png"/>'
+      url: https://x.com/yudao1024
+    wechat:
+      icon: '<img src="/images/wechat.png"/>'
+      url: /2021/计划搞个公众号来一本正经的胡说一通/
