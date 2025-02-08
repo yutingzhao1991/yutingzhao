@@ -1,5 +1,6 @@
 ---
 title: 梦想和孤独
+date: 2022-02-03 12:00:00
 ---
 
 ![](/images/fish.webp)
