@@ -12,6 +12,10 @@ author: 愚指导
 language: zh-CN
 timezone: ""
 favicon: /images/favicon.ico
+twitter:
+  username: yudao1024 # 你的 Twitter 账号（不带 @）
+  card: summary_large_image # Twitter Card 类型，推荐使用 "summary_large_image"
+  image: /images/stupid.jpeg # 你的默认分享图片路径
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
