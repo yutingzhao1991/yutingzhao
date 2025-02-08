@@ -9,6 +9,9 @@ footer:
     wechat:
       icon: '<img src="/images/wechat.png"/>'
       url: /2021/计划搞个公众号来一本正经的胡说一通/
+    rss:
+      icon: '<img src="/images/rss.png"/>'
+      url: /atom.xml
 open_graph:
   enable: true
   twitter_id: yudao1024
