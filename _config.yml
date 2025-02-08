@@ -6,11 +6,12 @@
 title: 愚指导
 avatar: /images/mfer.png
 subtitle: "愚指导的博客"
-description: ""
-keywords:
+description: "写些有趣文章，尽是狗屁暴论。生活咸淡酸辣，添碗酒酿年糕 🥂。"
+keywords: 愚指导, 博客, 科幻, AI, 程序员
 author: 愚指导
 language: zh-CN
 timezone: ""
+favicon: /images/favicon.ico
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

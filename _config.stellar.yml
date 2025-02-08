@@ -9,3 +9,13 @@ footer:
     wechat:
       icon: '<img src="/images/wechat.png"/>'
       url: /2021/计划搞个公众号来一本正经的胡说一通/
+open_graph:
+  enable: true
+  twitter_id: yudao1024
+logo:
+  subtitle: "写些有趣文章，尽是狗屁暴论。 | 生活咸淡酸辣，添碗酒酿年糕 🥂。" # '文字1 | 文字2' (鼠标放上去会切换到文字2)
+style:
+  leftbar:
+    background-image: "linear-gradient(0deg, #f5f5f5, #e0e0e0)"
+    blur-px: 100px # 模糊半径
+    blur-bg: var(--alpha60) # 模糊颜色
