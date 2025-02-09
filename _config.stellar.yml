@@ -1,5 +1,8 @@
 footer:
   social:
+    about:
+      icon: '<img src="/images/about.png"/>'
+      url: /about
     github:
       icon: '<img src="/images/github.png"/>'
       url: https://github.com/yutingzhao1991
@@ -8,7 +11,7 @@ footer:
       url: https://x.com/yudao1024
     wechat:
       icon: '<img src="/images/wechat.png"/>'
-      url: /2021/计划搞个公众号来一本正经的胡说一通/
+      url: /images/wechatqrcode.jpeg
     rss:
       icon: '<img src="/images/rss.png"/>'
       url: /atom.xml
