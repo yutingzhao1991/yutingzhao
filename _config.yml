@@ -119,3 +119,5 @@ feed:
   path: atom.xml
   limit: 20
   icon: /images/favicon.ico
+  favicon: /images/favicon.ico
+  image: /images/favicon.jpeg
