@@ -1,0 +1,4 @@
+name: 我们的元宇宙 # 在面包屑导航上会显示较短的名字
+title: 我们的元宇宙 # 在列表页会显示完整的专栏标题
+description: 科幻小说集《我们的元宇宙》，由 Web3 社区 OurMetaverseDAO 共创。
+order_by: -date # 默认是按发布日期倒序排序
