@@ -9,21 +9,22 @@ title: 关于我
 ## 🚀 兴趣方向
 
 我特别关注:
+
 - Web 前端开发以及 Web3 与区块链技术的发展
 - 人工智能等科技前沿动态
 - 科幻等艺术领域
 
 ## 📚 科幻爱好
 
-阅读科幻小说是我获得灵感的重要来源。我相信科幻不仅仅是一种文学形式，更是人类对未来的思考与探索。自己平时也会写一些科幻小说，偶尔发表于一些网络平台或者杂志。之前搞过一个科幻 NFT 项目 [Our Metaverse](https://our-metaverse-v3.vercel.app/)，感兴趣的可以看看，希望哪一天可以让这个项目复活。
+阅读科幻小说是我获得灵感的重要来源。我相信科幻不仅仅是一种文学形式，更是人类对未来的思考与探索。自己平时也会写一些科幻小说，偶尔发表于一些网络平台或者杂志。之前搞过一个科幻 NFT 项目 [Our Metaverse](/2025/我们的元宇宙)，感兴趣的可以看看，希望哪一天可以让这个项目复活。
 
 我也希望通过技术创新为世界带来一些改变，同时用文字记录这个快速变化的时代，用科幻故事创造一个属于自己的宇宙。
-
 
 ## 📧 联系我
 
 欢迎交流，可以通过以下方式找到我:
+
 - Twitter: [@yudao1024](https://twitter.com/yudao1024)
 - GitHub: [@yutingzhao1991](https://github.com/yutingzhao1991)
 - 微信公众号:
-<img src="/images/wechatqrcode.jpeg" alt="webchat" style="float: left;">
+  <img src="/images/wechatqrcode.jpeg" alt="webchat" style="float: left;">
