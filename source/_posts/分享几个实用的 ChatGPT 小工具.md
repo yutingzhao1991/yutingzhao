@@ -1,6 +1,9 @@
 ---
 title: "分享几个实用的 ChatGPT 小工具"
 date: 2023-03-09 20:09:00
+categories: 技术
+tags:
+  - AI
 ---
 
 ![](7f867d848ca63b7c94e5357ec24313da.png)
