@@ -121,3 +121,9 @@ feed:
   icon: /images/favicon.ico
   favicon: /images/favicon.ico
   image: /images/favicon.jpeg
+
+# google
+analytics:
+  google_analytics:
+    enable: true
+    measurement_id: G-LK1L268Z3E
