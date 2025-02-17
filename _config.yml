@@ -132,3 +132,11 @@ inject:
       gtag('js', new Date());
       gtag('config', 'G-LK1L268Z3E');
       </script>
+
+sitemap:
+  path:
+    - sitemap.xml
+    - sitemap.txt
+  rel: false
+  tags: true
+  categories: true
