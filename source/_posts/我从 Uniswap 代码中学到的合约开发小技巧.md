@@ -197,6 +197,4 @@ contract NonfungiblePositionManager is
 WTF-DApp 课程是 ZAN 的开发者社区和 WTF Academy 开发者社区同学共同完成的开源课程。如果你也对 Web3，对 Defi 项目开发感兴趣，你可以参考我们的实战课程  
 https://github.com/WTFAcademy/WTF-Dapp，一步一步完成一个简易版的交易所，相信一定会对你有所帮助~
 
-![](10681691b822be0dfb48548bb0b37089.gif)
-
 > 这篇文章最早发布在 ZAN 的公众号[《Web3 新手系列：我从 Uniswap 代码中学到的合约开发小技巧》](https://mp.weixin.qq.com/s/4B54JR6gm4nZCcwcDotp4w)
