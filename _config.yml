@@ -52,7 +52,7 @@ marked:
   postAsset: true
 relative_link: false
 future: true
-syntax_highlighter: highlight.js
+syntax_highlighter: prismjs
 highlight:
   line_number: true
   auto_detect: false
@@ -63,7 +63,6 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ""
-
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -132,6 +131,7 @@ inject:
       gtag('js', new Date());
       gtag('config', 'G-LK1L268Z3E');
       </script>
+    - <link rel="stylesheet" href="/css/prism.css">
 
 sitemap:
   path:
