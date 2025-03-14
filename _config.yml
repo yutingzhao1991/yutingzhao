@@ -52,7 +52,7 @@ marked:
   postAsset: true
 relative_link: false
 future: true
-syntax_highlighter: prismjs
+syntax_highlighter: highlight.js
 highlight:
   line_number: true
   auto_detect: false
@@ -131,7 +131,7 @@ inject:
       gtag('js', new Date());
       gtag('config', 'G-LK1L268Z3E');
       </script>
-    - <link rel="stylesheet" href="/css/prism.css">
+    - <link rel="stylesheet" href="/css/custom.css">
 
 sitemap:
   path:
