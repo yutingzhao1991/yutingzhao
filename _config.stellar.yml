@@ -15,6 +15,7 @@ footer:
     rss:
       icon: '<img src="/images/rss.png"/>'
       url: /atom.xml
+  content: '浙ICP备2025160166号'
 open_graph:
   enable: true
   twitter_id: yudao1024
