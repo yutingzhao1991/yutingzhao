@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 程序员是如何给自己挖坑的？
+date: 2014-09-11
 tags:
 - other
 ---

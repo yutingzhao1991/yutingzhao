@@ -4,6 +4,7 @@ title: Nodejs 脚本从点点网导出博客为 Markdown 文件
 tags:
 - other
 - nodejs
+date: 2014-09-09
 ---
 
 最近发现点点网的博客服务不给力了，所以迁移到了 github 用 kekyll 来写博客。但是老的博客还是需要迁移过来吧。所以就在想怎么才能将数据导过来。
